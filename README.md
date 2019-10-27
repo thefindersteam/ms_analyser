@@ -25,3 +25,11 @@
 - [An innovative peak detection algorithm for photoplethysmography signals: an adaptive segmentation method](https://www.researchgate.net/publication/299593684_An_innovative_peak_detection_algorithm_for_photoplethysmography_signals_An_adaptive_segmentation_method)
 - [Assessing mental stress from the photoplethysmogram: a numerical study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5964362/)
 - [Stress and Heart Rate Variability: A Meta-Analysis and Review of the Literature](https://www.ncbi.nlm.nih.gov/pubmed/29486547)
+
+
+## Other resources
+
+- [Tranquility score calculation for Myelin Bracelet platform](https://github.com/thefindersteam/tranquility_score_calc)
+- [Myelin Bracelet Web app repository](https://github.com/thefindersteam/myelin-bracelet-webapp)
+- [Myelin Bracelet OpenSCAD design sources](https://github.com/thefindersteam/bracelet)
+
